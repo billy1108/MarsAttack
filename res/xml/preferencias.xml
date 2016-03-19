@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="preferencias_principal" >
+
+    <PreferenceCategory android:title="@string/PrefTituloSonido" >
+        <CheckBoxPreference
+            android:key="musica"
+            android:summary="@string/PrefSummaryMusica"
+            android:title="@string/PrefTituloMusica" />
+        <CheckBoxPreference
+            android:key="efectos"
+            android:summary="@string/PrefSummaryFx"
+            android:title="@string/PrefSummaryFx" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/PrefTituloJuego" >
+
+        <EditTextPreference
+            android:defaultValue="5"
+            android:key="NumeroDeEnemigos"
+            android:summary="@string/PrefSummaryEnemigos"
+            android:title="@string/PrefTituloEnemigos" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/PrefTituloStorage" >
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/tiposAlmacenamiento"
+            android:entryValues="@array/tiposAlmacenamientoValores"
+            android:key="Almacenamiento"
+            android:summary="@string/PrefSummaryTypesStorage"
+            android:title="@string/PrefTituloTypesStorage" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

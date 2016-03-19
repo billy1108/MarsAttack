@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Arrancar">Jugar</string>
+    <string name="Configurar">Configurar</string>
+    <string name="Salir">Salir</string>
+    <string name="Puntuaciones">Puntuaciones</string>
+    <string name="tituloAplicacion">MARS ATTACK</string>
+    <string name="hello">Hello World, MarsAttack!</string>
+    <string name="app_name">MarsAttack</string>
+    <string name="Content_View_lista">Imagen elemento lista</string>
+    <string name="OtroTexto_elemLista">Otro Texto</string>
+    <string name="NoHayPuntuaciones">No hay puntuaciones</string>
+    <string name="PrefTituloSonido">Sonido</string>
+    
+    <string name="PrefSummaryMusica">Reproduce la musica de fondo</string>
+	<string name="PrefTituloMusica">Reproducir musica</string>
+	<string name="PrefSummaryFx">Reproduce los efectos de sonido</string>
+	<string name="PrefTituloFx">Reproducir efectos</string>
+	<string name="PrefTituloJuego">Juego</string>
+	<string name="PrefSummaryEnemigos">Numero de enemigos</string>
+	<string name="PrefTituloEnemigos">Numero de Enemigos</string>
+	
+	<string name="PrefTituloStorage">Tipos de almacenamiento</string>
+	<string name="PrefSummaryTypesStorage">Selecciona el tipo de almacenamiento de las puntuaciones</string>
+	<string name="PrefTituloTypesStorage">Tipos de almacenamiento</string>
+	
+	<string name="MenuTituloConfiguracion">Configuración</string>
+	<string name="MenuTituloSalir">Salir</string>
+	
+	
+	<string name="LabelPreferencias">Preferencias</string>
+	<string name="LabelPuntuaciones">Puntuaciones</string>
+	<string name="LabelJuego">Juego</string>
+	
+</resources>

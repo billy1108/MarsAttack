@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="Arrancar">Play</string>
+	<string name="Configurar">Set</string>
+	<string name="Salir">Exit</string>
+	<string name="Puntuaciones">Score</string>
+	<string name="tituloAplicacion">MARS ATTACK</string>
+	<string name="hello">Hello World, MarsAttack!</string>
+	<string name="app_name">MarsAttack</string>
+	<string name="Content_View_lista">List Image Item</string>
+	<string name="OtroTexto_elemLista">Other Text</string>
+	<string name="NoHayPuntuaciones">No scores</string>
+	<string name="PrefTituloSonido">Sound</string>
+	
+	<string name="PrefSummaryMusica">Background music is played</string>
+	<string name="PrefTituloMusica">Play Music</string>
+	<string name="PrefSummaryFx">AudioFx is played</string>
+	<string name="PrefTituloFx">Play Fx</string>
+	<string name="PrefTituloJuego">Game</string>
+	<string name="PrefSummaryEnemigos">Number Enemies</string>
+	<string name="PrefTituloEnemigos">Enemy Number</string>
+	<string name="PrefTituloStorage">Types of storage</string>
+	<string name="PrefSummaryTypesStorage">Choose how to save the score</string>
+	<string name="PrefTituloTypesStorage">Types of Storage</string>
+	
+	<string name="MenuTituloConfiguracion">Setting</string>
+	<string name="MenuTituloSalir">Exit</string>
+		
+	<string name="LabelPreferencias">Settings</string>
+	<string name="LabelPuntuaciones">Scores</string>
+	<string name="LabelJuego">Game</string>
+	
+	<string name="LabelGameOver">Game Over</string>
+	<string name="LabelPuntuacionGameOver">Tu puntuacion es: </string>
+	<string name="LabelNombre">Introduce tu nombre: </string>
+	<string name="BotonGameOver">Aceptar</string>
+</resources>
